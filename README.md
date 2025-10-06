@@ -1,5 +1,6 @@
 # EX - 5 Asset-Oriented Risk Assessment Of Storage Assets In AWS And Azure
-
+# NAME: PRAVEENA D
+#REG NO: 212224040248
 ## Aim
 To perform an asset-oriented risk assessment of cloud storage assets including:
 - AWS Elastic Block Store (EBS)
